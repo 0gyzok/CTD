@@ -1,4 +1,4 @@
 # Tasklan
-Tasklan by sector koda
+Tasklan by sector сoda
 
 Tasklan is based on the pywebio module
