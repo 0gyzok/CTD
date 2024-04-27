@@ -1,4 +1,4 @@
-# Tasklan
-Tasklan by sector сoda
+#Click To Do(CTD)
 
-Tasklan is based on the pywebio module
+CTD is a task scheduler in the form of a telegram bot
+
